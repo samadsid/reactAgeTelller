@@ -1,0 +1,9 @@
+.App {
+    padding: 5%;
+    text-align:center;
+    background: lightblue
+}
+.stats{
+    background:blue;
+    color: white;
+}
